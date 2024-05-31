@@ -1,7 +1,7 @@
 // import './src/ex.1.base/index1.mjs'
 // import './src/ex.2.optimization/index.mjs'
 // import './src/ex.3.collections/index1.mjs'
-// import './src/ex.4.insert-delete-drop/index1.mjs'
+// ! import './src/ex.4.insert-delete-drop/index1.mjs'
 // import './src/ex.5.update-delete/index8.mjs'
 // import './src/ex.6.find/index1.mjs'
 // import './src/ex.7.cursor-array/index1.mjs'
